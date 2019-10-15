@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AXX_HomeWorkBLib'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of AXX_HomeWorkBLib.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'AXX_HomeWorkBLib/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   
   
