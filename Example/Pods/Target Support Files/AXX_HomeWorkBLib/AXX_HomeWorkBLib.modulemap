@@ -1,0 +1,6 @@
+framework module AXX_HomeWorkBLib {
+  umbrella header "AXX_HomeWorkBLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

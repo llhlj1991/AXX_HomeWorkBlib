@@ -1,0 +1,27 @@
+PODS:
+  - AXX_HomeWorkBLib (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AXX_HomeWorkBLib (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AXX_HomeWorkBLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AXX_HomeWorkBLib: dc7962fd1dc8003d0cf214148721b5541e268dff
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 753b08911e7d3e73cd5afeaa37fe55176461a377
+
+COCOAPODS: 1.6.2
